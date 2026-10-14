@@ -27,6 +27,6 @@ This end-to-end data analytics project analyzes over 85,000 US flight records (D
 * **Regional Carrier Yield Optimization:** Regional carriers demonstrate the highest price elasticity relative to market concentration, capitalizing heavily on monopolistic routes. **Recommendation:** Network planners and Legacy carriers partnering with Regionals should closely monitor these routes and optimize price discrimination strategies before LCC competitors enter the market.
 
 ### 6. Dashboard Preview
-<img width="1434" height="808" alt="image" src="https://github.com/user-attachments/assets/f0b8023b-ed1a-42da-89e3-d9310f15d220" />
+<img width="1443" height="808" alt="image" src="https://github.com/user-attachments/assets/96202b7d-ec71-496b-8e74-7fa937f63561" />
 
 
